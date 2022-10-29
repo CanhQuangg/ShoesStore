@@ -1,31 +1,120 @@
 ﻿id,name,brand,gender,price,sale
-SP01,,nike,,4000000,0
-SP02,,nike,,,
-SP03,,nike,,,
-SP04,,nike,,,
-SP05,,nike,,,
-SP06,,nike,,,
-SP07,,nike,,,
-SP08,,nike,,,
-SP09,,nike,,,
-SP10,,nike,,,
-SP11,,nike,,,
-SP12,,nike,,,
-SP13,,nike,,,
-SP14,,nike,,,
-SP15,,nike,,,
-SP16,,nike,,,
-SP17,,nike,,,
-SP18,,,,,
-SP19,,,,,
-SP20,,,,,
-SP21,,,,,
-SP22,,,,,
-SP23,,,,,
-SP24,,,,,
-SP25,,,,,
-SP26,,,,,
-SP27,,,,,
-SP28,,,,,
-SP29,,,,,
-SP30,,,,,
+SP01,Air Force 1 ,Nike,Male,3300000,0
+SP02,Nikecourt Air Zoom GP Turbo,Nike,Male,4200000,0
+SP03,Jordan Series SE ,Nike,Male,2900000,0
+SP04,Nikecourt Vapor Lite HC,Nike,Male,2800000,0
+SP05,Nike Air Max Excee,Nike,Male,2900000,0
+SP06,Air Force 1 Low PRM,Nike,Male,4200000,0
+SP07,Nikecourt Vapor Lite Hard Court Tennis,Nike,Male,3200000,0
+SP08,Air Max Bliss Next Nature,Nike,Male,3900000,0
+SP09,Nikecourt Air Zoom Vapor Pro White Habanero Red,Nike,Male,4200000,0
+SP10,Nike Air Max 1 Dirty Denim,Nike,Male,5800000,0
+SP11,Nikecourt React Vapor NXT,Nike,Male,4500000,0
+SP12,Nike SB Force 58,Nike,Male,3200000,0
+SP13,Zoom Fly 5 ,Nike,Male,3900000,0
+SP14,Nike Air Max Terrascape 90,Nike,Male,3900000,0
+SP15,PG 5,Nike,Male,3200000,0
+SP16,Air Max 1 PRM,Nike,Male,5800000,0
+SP17,Jordan MA2,Nike,Male,4200000,0
+SP18,Jordan Series ES,Nike,Male,3600000,0
+SP19,Pegasus 39 Barely Volt,Nike,Male,3600000,8
+SP20,Zoom Structure 24,Nike,Male,2800000,0
+SP21,Lebron 19 Low Witness,Nike,Male,4200000,0
+SP22,PG 5 TB Wolf Grey,Nike,Male,3200000,0
+SP23,Zoom Fly 4 Black Volt ,Nike,Male,3600000,0
+SP24,Air Winflo 9,Nike,Male,2900000,0
+SP25,Air Trainer 1 Dark Smoke Grey,Nike,Male,4800000,0
+SP26,Nike Air Force 1 Pltaform,Nike,Female,3900000,0
+SP27,Nike Air Force 1 Shadow,Nike,Female,3900000,0
+SP28,Air Max Bella,Nike,Female,2800000,0
+SP29,Air Max 90 Futura,Nike,Female,3900000,0
+SP30,,Nike,Female,,0
+SP31,,Nike,Female,,0
+SP32,,Nike,Female,,0
+SP33,,Nike,Female,,0
+SP34,,Nike,Female,,0
+SP35,,Nike,Female,,0
+SP36,,Nike,Female,,0
+SP37,,Nike,Female,,0
+SP38,,Nike,Female,,0
+SP39,,Nike,Female,,0
+SP40,,Nike,Female,,0
+SP41,,Nike,Female,,0
+SP42,,Nike,Female,,0
+SP43,,Nike,Female,,0
+SP44,,Nike,Female,,0
+SP45,,Nike,Female,,0
+SP46,,Nike,Female,,0
+SP47,,Nike,Female,,0
+SP48,,Nike,Female,,0
+SP49,,Nike,Female,,0
+SP50,,,,,
+SP51,,,,,
+SP52,,,,,
+SP53,,,,,
+SP54,,,,,
+SP55,,,,,
+SP56,,,,,
+SP57,,,,,
+SP58,,,,,
+SP59,,,,,
+SP60,,,,,
+SP61,,,,,
+SP62,,,,,
+SP63,,,,,
+SP64,,,,,
+SP65,,,,,
+SP66,,,,,
+SP67,,,,,
+SP68,,,,,
+SP69,,,,,
+SP70,,,,,
+SP71,,,,,
+SP72,,,,,
+SP73,,,,,
+SP74,,,,,
+SP75,,,,,
+SP76,,,,,
+SP77,,,,,
+SP78,,,,,
+SP79,,,,,
+SP80,,,,,
+SP81,,,,,
+SP82,,,,,
+SP83,,,,,
+SP84,,,,,
+SP85,,,,,
+SP86,,,,,
+SP87,,,,,
+SP88,,,,,
+SP89,,,,,
+SP90,,,,,
+SP91,,,,,
+SP92,,,,,
+SP93,,,,,
+SP94,,,,,
+SP95,,,,,
+SP96,,,,,
+SP97,,,,,
+SP98,,,,,
+SP99,,,,,
+SP100,,,,,
+SP101,,,,,
+SP102,,,,,
+SP103,,,,,
+SP104,,,,,
+SP105,,,,,
+SP106,,,,,
+SP107,,,,,
+SP108,,,,,
+SP109,,,,,
+SP110,,,,,
+SP111,,,,,
+SP112,,,,,
+SP113,,,,,
+SP114,,,,,
+SP115,,,,,
+SP116,,,,,
+SP117,,,,,
+SP118,,,,,
+SP119,,,,,
